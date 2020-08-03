@@ -1,2 +1,2 @@
 # blackhole
-My first game.
+A game made with Unity using C#.
