@@ -1,4 +1,3 @@
 # Black Hole
 
-Play Black Hole on your browser! 
-Click [here](https://xyntechx.github.io/BlackHole-Game/index.html) to play!
+Play [Black Hole](https://xyntechx.github.io/BlackHole-Game/index.html) on your browser! 
